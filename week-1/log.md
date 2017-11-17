@@ -16,7 +16,7 @@ Week 1 Log
 
 ### Time Spent
 
-1 hr 23 min
+1 hr 33 min
 
 ### Ideas/Techniques Learned
 
