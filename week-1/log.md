@@ -1,4 +1,38 @@
-Week 1 Log
+#Week 1 Log
+
+## [2] Day 3: 2017-11-19
+
+### Today's Progress
+
+1. Worked through JavaScript portion of Tic Tac Toe by writing out pseudo-code steps.
+2. Started writing out JS, starting with user choices.
+3. Some labels disappear when clicked.
+
+### Time Spent
+
+1 hr 14 min
+
+### Ideas/Techniques Learned
+
+- Practiced targeting DOM elements, trying to discover the difference between `getElementsByTagName`, `querySelector`, and `querySelectorAll`.
+- Practiced using `addEventListener`.
+
+### Thoughts, Ideas, Questions
+
+- Right away, I acknowledged that I can't code this in an hour. I have to take small steps.
+- Writing out pseudo-code (this time around) helped me focus on what I wanted to accomplish, and small steps I needed to take to get there.
+- I'm still a little unclear when to use which DOM targetting method. I see `querySelector` but is that the best choice? What about `getElementsByTagName`?
+- And why can't I seem to grab all the `label` tags? What am I doing wrong?
+- Eat the elephant, one bite at a time. This really isn't my favorite project.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [JavaScript Event Listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp);
+- [JavaScript DOM Elements](https://www.w3schools.com/js/js_htmldom_elements.asp)
 
 ## [1] Day 2: 2017-11-18
 
