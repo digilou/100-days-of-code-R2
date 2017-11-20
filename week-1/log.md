@@ -1,4 +1,32 @@
-#Week 1 Log
+# Week 1 Log
+
+## [3] Day 4: 2017-11-20
+
+### Today's Progress
+
+1. Back to CSS for 'x' and 'o' styling, instead of using JS to make them show up as selected.
+2. Mostly search-read-find since I haven't gotten my JS to work yet.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- `getElementsByTag` vs. `querySelectorAll` vs. `querySelector`
+
+### Thoughts, Ideas, Questions
+
+- Frustrated with limitations on tweaking look of pre-built form elements, like input and label. Maybe I'll have to hide the 'x' and 'o' and use `:after` instead?
+- Frustrated that, apparently, I don't quite fully understand how to traverse the DOM.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- none today
 
 ## [2] Day 3: 2017-11-19
 
