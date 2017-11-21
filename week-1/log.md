@@ -1,5 +1,36 @@
 # Week 1 Log
 
+## [4] Day 5: 2017-11-21
+
+### Today's Progress
+
+1. Moved `checked` state to CSS (using :after) rather than targeting with JS.
+2. Started defining variables for pieces on the board.
+
+### Time Spent
+
+1 hr 6 min
+
+### Ideas/Techniques Learned
+
+- I forgot about `output` new to HTML5! Good use for announcing who the winner is.
+- Thanks to Code School, I recently learned that adding variables separated by commas can improve performance. Testing to see if const and let work that way, too.
+
+### Thoughts, Ideas, Questions
+
+- I felt short on time today, since my son work up later and I had only an hour between then a getting ready for work.
+- With Gunnar's code as a starting point, I feel like the fog isn't quite as thick, even though my functionality will vary slightly.
+- There is not shame learning from someone else's code. Especially when time is spent trying to understand how it works and if it can be customized for your needs.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [Output tag](https://www.w3schools.com/tags/tag_output.asp)
+
 ## [3] Day 4: 2017-11-20
 
 ### Today's Progress
