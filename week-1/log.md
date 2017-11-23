@@ -29,6 +29,7 @@
 
 - [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
 - [HTML5 data-* attribute](https://www.w3schools.com/tags/att_global_data.asp)
+- [Haml docs](http://haml.info/docs/yardoc/file.REFERENCE.html)
 
 ## [5] Day 6: 2017-11-22
 
