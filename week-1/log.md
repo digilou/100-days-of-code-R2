@@ -1,5 +1,35 @@
 # Week 1 Log
 
+## [6] Day 7: 2017-11-23 (Thanksgiving)
+
+### Today's Progress
+
+1. Read through functions to try to determine what more I needed to add.
+2. Started adding data attributes to my HTML to give more focus to rows and columns for checking the board for a winning move.
+3. Skimmed through Haml docs.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Global data attibutes, new to HTML5, are handy in this situation. I've seen them used, but not played with them much.
+
+### Thoughts, Ideas, Questions
+
+- Still feeling a bit adverse about adding AI and completing the game, in general. But I made it my first goal of this challenge for that very reason.
+- Adding more rendundant attributes to my HTML makes me wonder if I should have pursued Pug or Haml. Maybe I'll convert to it before submission. I would like to add Haml to my knowledge base to better help me assist with the Women Who Code project.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [HTML5 data-* attribute](https://www.w3schools.com/tags/att_global_data.asp)
+
 ## [5] Day 6: 2017-11-22
 
 ### Today's Progress
