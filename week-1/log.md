@@ -1,5 +1,36 @@
 # Week 1 Log
 
+## [5] Day 6: 2017-11-22
+
+### Today's Progress
+
+1. Organized and broke down pseudo-code for JS interactions even more.
+2. Started coding a couple of functions (startGame, computerPlay, checkBoard, endGame) to give Tic Tac Toe  enhanced interaction.
+3. Bought the Wes Bos "React for Beginners" course to do later in this 100-day journey.
+
+### Time Spent
+
+1 hr 2 min
+
+### Ideas/Techniques Learned
+
+- Avoided `innerHTML` because I read this wasn't best practice. Went for `textContent`, but then decided `innerText` may be the best way to go for updating `output`.
+
+### Thoughts, Ideas, Questions
+
+- Night time is a bad time for me to really concentrate and dig deep. Avoid, if at all possible.
+- Amazingly, breaking down more pseudo-code helped me zone in more on what I needed to do, which led to the beginnings of my functional programming.
+- Not yet confident how I'm going to write in AI. That requirment will be the most challenging and time-consuming for me.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [Node.innerText](https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText)
+
 ## [4] Day 5: 2017-11-21
 
 ### Today's Progress
