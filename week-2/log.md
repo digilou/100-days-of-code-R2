@@ -1,5 +1,39 @@
 # Week 2 Log
 
+## [8] Day 9: 2017-11-25
+
+### Today's Progress
+
+1. Experimented with syntax I was less familiar with: `let`, `const`, `calc()`, `vmin`.
+2. Updated some design aspects of my Tic Tac Toe board.
+3. Solved X and O overlap issue caused by conflict of .js styling while JS functions are not working yet.
+
+### Time Spent
+
+1 hr 12 min
+
+### Ideas/Techniques Learned
+
+- `vmin` is a newer relative unit. I experimented with it to make my table cells stretch across the viewport.
+- `const` isn't immutable, but it's set to not be overwritten.
+- `let` is more like `var`, but is scoped for a block rather than just a function.
+- First time playing with calc CSS function. Whitespace must be between `+` and `-`, but not `/` or `*`.
+
+### Thoughts, Ideas, Questions
+
+- So glad I bought the Wes Bos "ES6 for Everyone"! It's already helped me better understand things I was learning, but wasn't quite sure how to use at the appropriate time.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
+- [ES6 for Everyone](https://es6.io)
+- [calc() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
+
 ## [7] Day 8: 2017-11-24
 
 ### Today's Progress
