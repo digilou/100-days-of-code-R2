@@ -1,5 +1,34 @@
 # Week 2 Log
 
+## [9] Day 10: 2017-11-26
+
+### Today's Progress
+
+1. Used Firefox web inspector to work through JS errors in the console. Resolved JS typos allowed me to move forward a little more, so that 'x' and 'o' are appearing and disappearing, as expected.
+
+### Time Spent
+
+1 hr 3 min
+
+### Ideas/Techniques Learned
+
+- Use `DOMContentLoaded`(versus `load`) to fire event / run function immediately after HTML is parsed, not waiting on CSS, images, and subframes. It's an HTML5 spec.
+- Once again, fixed typos resolve issues. Found with the help of the JS console/inspector.
+
+### Thoughts, Ideas, Questions
+
+- Thought I understood `const` better, but still unsure why `querySelectorAll` works inside this.
+- Hmm... upon game reset, the opposite letter appears. Something that may resolve when I update my code to include AI? And nothing appears to be happening in `output` though no errors show up.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [DOMContentLoaded](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)
+
 ## [8] Day 9: 2017-11-25
 
 ### Today's Progress
@@ -29,7 +58,6 @@
 
 ### Resources I found helpful
 
-- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
 - [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
 - [ES6 for Everyone](https://es6.io)
 - [calc() CSS function](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
