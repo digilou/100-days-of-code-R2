@@ -1,6 +1,6 @@
 # Week 2 Log
 
-## [10] Day 12: 2017-11-28
+## [11] Day 12: 2017-11-28
 
 ### Today's Progress
 
@@ -9,7 +9,7 @@
 
 ### Time Spent
 
-1 hr
+1 hr 5 min
 
 ### Ideas/Techniques Learned
 
