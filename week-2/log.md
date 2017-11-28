@@ -1,5 +1,41 @@
 # Week 2 Log
 
+## [10] Day 11: 2017-11-27
+
+### Today's Progress
+
+1. Became more familiar with the why's of Gunnar's code, like why he used specific `Math` methods.
+2. Refactored a couple of arrow functions.
+3. Found that `const output = table.getElementsByTagName("output")` was not doing the trick, so I reverted back to `table.querySelector("output")` (but now that gives me a `TypeError` at `startGame()`).
+
+### Time Spent
+
+1 hr 7 min
+
+### Ideas/Techniques Learned
+
+- `Math.abs()` method returns the absolute number (-1 === 1).
+- `Math.sigh()` method returns the sign of a number (negative, positive, zero).
+- `parseInt()` function taps into a string and returns an integer with a specified radix; good practice is to always include the base (radix) since not all browsers support the default of `10`.
+- Thanks to Wes Bos's ES6 course, I'm more comfortable with understanding how and when to use arrow functions.
+
+### Thoughts, Ideas, Questions
+
+- Output isn't doing anything? 
+- Bottom right square `board[2][2]` disappears when bottom left square `board[2][0]` is clicked or even when a bottom row win occurs? Sometimes vice versa.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [Math.abs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs)
+- [Math.sign](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign)
+- [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+- [ES6 for Everyone](https://es6.io)
+
 ## [9] Day 10: 2017-11-26
 
 ### Today's Progress
