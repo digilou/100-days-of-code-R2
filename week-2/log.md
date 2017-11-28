@@ -1,5 +1,33 @@
 # Week 2 Log
 
+## [10] Day 12: 2017-11-28
+
+### Today's Progress
+
+1. Started over, this time with Gunnar's code, so I can understand why my bugs (originating in `startGame`, I think) persist.
+2. Began intermittent structure and design tweaks to discover what problem I created in v1.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Practice with `console.log()` to find global variables.
+
+### Thoughts, Ideas, Questions
+
+- I still haven't discovered why `output` in `startGame()` was throwing a `TypeError`, so starting over seemed liked the next best step, though it feels VERY tedious doing so. The only perk, I'm getting to know my code in and out, which gives me improvement ideas as I go.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- JavaScript: Novice to Ninja, 1st ed.
+
 ## [10] Day 11: 2017-11-27
 
 ### Today's Progress
