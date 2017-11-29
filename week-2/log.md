@@ -1,5 +1,33 @@
 # Week 2 Log
 
+## [12] Day 13: 2017-11-29
+
+### Today's Progress
+
+1. Base functionality is working, so far.
+2. Checked off 1 user stories: reset can happen after game (via reset button)
+3. Started working on function to give the user a choice of X or O.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- More pseudo code practice to target those itty-bitty steps.
+
+### Thoughts, Ideas, Questions
+
+- Weighing the difference between inserting an element for play choice (JS function) or showing both options on board (CSS && JS function).
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+
 ## [11] Day 12: 2017-11-28
 
 ### Today's Progress
