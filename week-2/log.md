@@ -1,5 +1,32 @@
 # Week 2 Log
 
+## [13] Day 14: 2017-11-30
+
+### Today's Progress
+
+1. 
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- TIL: `console.trace()` for debugging (my a-ha moment that `console` is an object with more methods than just `log`)
+
+### Thoughts, Ideas, Questions
+
+- 
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
+- [console.trace](https://developer.mozilla.org/en-US/docs/Web/API/Console/trace)
+
 ## [12] Day 13: 2017-11-29
 
 ### Today's Progress
