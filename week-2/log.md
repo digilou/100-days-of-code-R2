@@ -4,19 +4,25 @@
 
 ### Today's Progress
 
-1. 
+1. Familiarized myself with more JS syntax (e.g. `event.target` && `console.trace()`).
+2. Better understood what's going on under the hood.
+3. Gained a little more confidence in trial and error of syntax/property use.
+4. Cautiously applied ES6 refactoring (tertiary statements, arrow functions) as I combed through JS code.
+5. Wrapped code in anonymous function and inserted `use strict` for good practice.
 
 ### Time Spent
 
-1 hr
+1 hr 20 min
 
 ### Ideas/Techniques Learned
 
 - TIL: `console.trace()` for debugging (my a-ha moment that `console` is an object with more methods than just `log`)
+- Also, learned more about `event.target` and its properties.
 
 ### Thoughts, Ideas, Questions
 
-- 
+- Reading JavaScript: Novice to Ninja, I'm contemplating what kind of testing and debugging methods I could apply to this particular app?
+- It's like I know now what I want to do (declarative?) to give the user a choice of X or O, but I'm just not quite sure how (imperative?) to get there yet. Especially when it comes to the event listener that targets events on `input` to disable the closest radio button.
 
 ### Project I worked on
 
@@ -24,8 +30,8 @@
 
 ### Resources I found helpful
 
-- [Gunnar Bittersmann's PE Tic Tac Toe](https://codepen.io/gunnarbittersmann/pen/aVWmMR)
 - [console.trace](https://developer.mozilla.org/en-US/docs/Web/API/Console/trace)
+- [event.target properties](https://stackoverflow.com/a/7723257)
 
 ## [12] Day 13: 2017-11-29
 
