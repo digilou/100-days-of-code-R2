@@ -1,5 +1,35 @@
 # Week 3 Log
 
+## [16] Day 17: 2017-12-03
+
+### Today's Progress
+
+1. Floundered on a couple JS30 tutorials (speech recognition, geolocation) because they required more environment setup than I was prepared for. Skipped.
+2. Worked through JS30 Whack-a-Mole game.
+
+### Time Spent
+
+1 hr 25 min
+
+### Ideas/Techniques Learned
+
+- ES6 added `.repeat()` to repeat
+- `window.speechRecognition` for accepting speech input into the browser. Cool idea! But hardly supported.
+
+### Thoughts, Ideas, Questions
+
+- Took a break from Tic Tac Toe to regain a little coding self-confidence. Looked to Wes Bos's JavaScript 30 tutorials for a break, but continued learning.
+- Game functionalities appear to have a lot of the same functionality, so I was able to work ahead on his functions a few times!
+
+### Project I worked on
+
+- [Whack-a-Mole](https://c9.io/digilou/javascript-30/files/30%20-%20Whack%20A%20Mole)
+
+### Resources I found helpful
+
+- JavaScript: Novice to Ninja, 2nd ed.
+- [JavaScript 30](https://javascript30.com)
+
 ## [15] Day 16: 2017-12-02
 
 ### Today's Progress
