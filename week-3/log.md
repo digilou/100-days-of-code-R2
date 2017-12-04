@@ -1,5 +1,36 @@
 # Week 3 Log
 
+## [17] Day 18: 2017-12-04
+
+### Today's Progress
+
+1. Forked Tic Tac Toe pen (again) with the approach of removing JS, and starting fresh by walking through the steps again.
+2. Worked on functions, conditions, and event listeners that pertained to player choice.
+3. Read more out of JavaScript: Novice to Ninja, 2nd ed.
+4. Troubleshooted config (.yml) file for Women Who Code.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Perserverance is the only winning skill in coding.
+- ES6 added `Map()` constructor (not quite like an object, but kind of), `Set()` which is like but not like an array, and `Symbol` which is another data type.
+
+### Thoughts, Ideas, Questions
+
+- I needed to declutter what I was looking at, though it's good valid code. I forked my pen several times before trying different solutions. Now I've forked it once again to remove all the working code, so I can walk through the steps again to see if there's a better way to approach user choice. Confidence waining a bit, as I'm convinced I'm a designer, but I want this bad enough to suffer through growing pains.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+- Women Who Code website (private repo)
+
+### Resources I found helpful
+
+- JavaScript: Novice to Ninja, 2nd ed.
+
 ## [16] Day 17: 2017-12-03
 
 ### Today's Progress
