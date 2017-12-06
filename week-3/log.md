@@ -1,5 +1,32 @@
 # Week 3 Log
 
+## [18] Day 19: 2017-12-05
+
+### Today's Progress
+
+1. Still playing with different code snippet to make player choice available in Tic Tac Toe. No progress today.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- None.
+
+### Thoughts, Ideas, Questions
+
+- First step, always, eliminate distractions on the hard stuff. Which is hard to do when your code lives on the Internet.
+- What is the best way for me to slide right back into where I left off? It seems it takes me at least 20 minutes to get reoriented.
+
+### Project I worked on
+
+- [FCC: Tic Tac Toe](https://codepen.io/digilou/pen/POOypV)
+
+### Resources I found helpful
+
+- n/a
+
 ## [17] Day 18: 2017-12-04
 
 ### Today's Progress
