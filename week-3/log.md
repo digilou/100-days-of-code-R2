@@ -1,5 +1,36 @@
 # Week 3 Log
 
+## [20] Day 21: 2017-12-07
+
+### Today's Progress
+
+1. Reoriented myself after TicTacToe (temporary) fail by deciding next coding steps.
+2. Started planning out son's photo sharing app in Rails.
+3. Did mostly devops work to try to figure out where to host app, so I know which version of Rails I need to build on.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- n/a
+
+### Thoughts, Ideas, Questions
+
+- It's okay to move on. Always re-evaluate your goals and intents. (Why am I doing this? Because I want to deepen my programming knowledge by building things for myself)
+- I've decided that since programming mindset is my weakness, I need to make a greater effort to practice little things. I still want to get better at JavaScript, so I think coding katas would help me. Bouncing between JavaScript and Ruby may help more, too. Syntax is less of a problem now, but the mindset is my hurdle since I've watered my design skills more recently. Best bets:
+    - [CodeWars](https://www.codewars.com)
+    - [Project Euler](https://projecteuler.net/archives)
+
+### Project I worked on
+
+- Son's photo-sharing app (not public yet)
+
+### Resources I found helpful
+
+- [Rails Tutorial eBook](https://www.railstutorial.org/book) by Michael Hartl
+
 ## [19] Day 20: 2017-12-06
 
 ### Today's Progress
