@@ -1,5 +1,39 @@
 # Week 3 Log
 
+## [19] Day 20: 2017-12-06
+
+### Today's Progress
+
+1. Worked through a Women Who Code issue:
+    - changed a hard-coded number to a constant variable,
+    - updated seeds and locale files,
+    - deleted a custom task (.rake) file.
+2. Learned more about migrations and custom tasks.
+
+### Time Spent
+
+1 hr 34 min
+
+### Ideas/Techniques Learned
+
+- The proper way to delete a custom task/rake file? In this case, just delete the file (not via the CLI).
+- There's a difference between migrations and custom tasks in the lib directory.
+- I have a little more understanding of locale config (en.yml) and seeds.rb files. Just a little.
+
+### Thoughts, Ideas, Questions
+
+- I just didn't have the will to work on Tic Tac Toe. It's time to work on personal projects that are more motivating and have real results for me. Women Who Code keeps me learning, and builds on my Rails knowledge to reinforce knowledge needed for my own Rails projects.
+- This troubleshooting took WAY longer than I anticipated. Actually, I've been working on this issue for days (off and on) now. Ugh. Initially it sounded easy. But at least the ups and downs have forced me to ask help from women who know what there doing. So, I've learned a little more, thanks to that humbling push.
+
+### Project I worked on
+
+- Women Who Code (private repo)
+
+### Resources I found helpful
+
+- [Active Record Migrations](http://edgeguides.rubyonrails.org/active_record_migrations.html)
+- [Maintainable Rake tasks in a Ruby on Rails application](http://teotti.com/maintainable-rake-tasks-in-a-ruby-on-rails-application/)
+
 ## [18] Day 19: 2017-12-05
 
 ### Today's Progress
