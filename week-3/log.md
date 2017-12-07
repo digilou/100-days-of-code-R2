@@ -10,7 +10,7 @@
 
 ### Time Spent
 
-1 hr
+1 hr 35 min
 
 ### Ideas/Techniques Learned
 
