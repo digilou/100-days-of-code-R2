@@ -16,13 +16,12 @@
 
 ### Ideas/Techniques Learned
 
-- Refresh: using/pushing to Bitbucket.
-- Refresh: initializing a Rails app.
-- Refresh: initializing a local Git repo.
+- Heroku setup.
+- Introduced to Procfiles.
 
 ### Thoughts, Ideas, Questions
 
-- Reminder: new projects always take a few days of environment setup. It's the way of things.
+- Still need to set up Postgres locally. Did I not do this before?
 
 ### Project I worked on
 
