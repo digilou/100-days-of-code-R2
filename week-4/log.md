@@ -6,11 +6,13 @@
 
 1. Setup postgres in Rails app.
 2. Generated static home page (login screen).
-3. Began editing home page, its controller, route, and spec.
+3. Coded HTML for login page.
+4. Updated controller to point to render home page `respond_to :html`.
+5. Updated route to make home page as root `root 'static_pages#home'`.
 
 ### Time Spent
 
-1 hr 30 min
+1 hr 47 min
 
 ### Ideas/Techniques Learned
 
