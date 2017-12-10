@@ -24,6 +24,7 @@
 - I "think" my database is all set up. The truth will come out when I start setting up users for login.
 - Don't know why I'm still shocked that initial setup (database) took an hour. I really just want to code/design stuff.
 - Feels good to be setting up a web app from back to front all by myself! Such grand hopes for my personal project (right now).
+- Don't forget to start writing tests/spec tomorrow for home. Do it early and often.
 
 ### Project I worked on
 
