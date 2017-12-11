@@ -1,5 +1,35 @@
 # Week 4 Log
 
+## [24] Day 25: 2017-12-11
+
+### Today's Progress
+
+1. Refactored HTML into ERB on login page.
+2. Read about writing tests and added tests to login spec.
+3. Added more structure to login page to allow for signup.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Many tests need to be written in the beginning.
+
+### Thoughts, Ideas, Questions
+
+- I'm definitely not comfortable with TDD (test driven development) yet. This project (a perk of Rails, actually) pushes me to write tests in the beginnning, which would benefit other projects I work on.
+- In the beginning of dev, I have so many ideas and much learning to do as I set up this application. How do I best get organized to make the most of my time??
+- As ideas pop up, I can see how a project can get complicated and messy real fast.
+
+### Project I worked on
+
+- [Photo-sharing app](https://ancient-reef-60958.herokuapp.com/)
+
+### Resources I found helpful
+
+- [Rails Tutorial eBook](https://www.railstutorial.org/book) by Michael Hartl
+
 ## [23] Day 24: 2017-12-10
 
 ### Today's Progress
