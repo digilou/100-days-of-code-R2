@@ -29,6 +29,7 @@
 ### Resources I found helpful
 
 - [Rails Tutorial eBook](https://www.railstutorial.org/book) by Michael Hartl
+- [Testing with Rails](http://guides.rubyonrails.org/testing.html)
 
 ## [23] Day 24: 2017-12-10
 
