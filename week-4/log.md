@@ -1,5 +1,35 @@
 # Week 4 Log
 
+## [25] Day 26: 2017-12-12
+
+### Today's Progress
+
+1. Installed RSpec for testing.
+2. Searched and skimmed through RSpec resources.
+3. Intent to write specs for login page.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- I was surprised that RSpec is not bundled in the skeleton Rails framework, although there is testing pre-built. RSpec makes it a little easier to understand.
+
+### Thoughts, Ideas, Questions
+
+- I should probably sit down and make wireframes/mockups. Also, write out some user stories, so this doesn't get too convoluted. It would help with my BDD (behavior driven design) testing.
+
+### Project I worked on
+
+- [Photo-sharing app](https://ancient-reef-60958.herokuapp.com/)
+
+### Resources I found helpful
+
+- [Rails Tutorial eBook](https://www.railstutorial.org/book) by Michael Hartl
+- [Testing with Rails](http://guides.rubyonrails.org/testing.html)
+- [RSpec gem](https://github.com/rspec/rspec)
+
 ## [24] Day 25: 2017-12-11
 
 ### Today's Progress
@@ -29,7 +59,6 @@
 ### Resources I found helpful
 
 - [Rails Tutorial eBook](https://www.railstutorial.org/book) by Michael Hartl
-- [Testing with Rails](http://guides.rubyonrails.org/testing.html)
 
 ## [23] Day 24: 2017-12-10
 
