@@ -1,5 +1,36 @@
 # Week 4 Log
 
+## [26] Day 27: 2017-12-13
+
+### Today's Progress
+
+1. PR for Women Who Code issue: added smart pluralize to automated email subject line (within config file).
+2. 7 lessons on Ruby from Learn.co free tutorials.
+
+### Time Spent
+
+2 hr
+
+### Ideas/Techniques Learned
+
+- Refresh: smart pluralize method `#{pluralize(job_credits.count,"Post")`.
+- Using the rails console.
+
+### Thoughts, Ideas, Questions
+
+- Took a break from app planning to get my hands practicing more Ruby and Rails. Will work on app wireframes and user stories separate from coding hour.
+- Manual testing with rails console: adding a user, checking the table, sending a notification. SO LOST. Feel like I wasted time I can't get back. Hoping I learn this at another time.
+
+### Project I worked on
+
+- Women Who Code
+- Learn.co Ruby tutorials
+
+### Resources I found helpful
+
+- [Ruby Development](https://learn.co)
+- [Women Who Code](https://womenwhocode.com)
+
 ## [25] Day 26: 2017-12-12
 
 ### Today's Progress
