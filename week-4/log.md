@@ -1,11 +1,40 @@
 # Week 4 Log
 
+## [27] Day 28: 2017-12-14
+
+### Today's Progress
+
+1. Wireframmed main pages (login/signup, image board with modals, user profile)
+2. Pseudo-coded login/signup tests
+3. Wrote out list of tasks user wants to do on image board.
+4. Started adding issues to Bitbucket, and considering priority of functions and features.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Refresh: wireframing.
+
+### Thoughts, Ideas, Questions
+
+- Wow, planning is underrated! Coding makes things happen, but lack of direction and clarity gets your nothing but a mess. Glad I sat down to wireframe, write out tasks/tests, and bullet out user stories!
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- n/a
+
 ## [26] Day 27: 2017-12-13
 
 ### Today's Progress
 
 1. PR for Women Who Code issue: added smart pluralize to automated email subject line (within config file).
-2. 7 lessons on Ruby from Learn.co free tutorials.
+2. 5 lessons on Ruby from Learn.co free tutorials.
 
 ### Time Spent
 
