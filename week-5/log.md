@@ -1,5 +1,39 @@
 # Week 5 Log
 
+## [30] Day 31: 2017-12-17
+
+### Today's Progress
+
+1. Worked through some of Hartl's examples for setting up controllers and models for users and posts.
+2. Add more ideas/revisions to app planning.
+3. Started documenting setup of a Rails app for my own reference.
+
+### Time Spent
+
+1 hr 10 min
+
+### Ideas/Techniques Learned
+
+- Refresh: connecting controllers and models with `resource`, `has_many`, `belongs_to`, `validates :resource, presence: true`.
+- Controllers are generated as plural: `Users`.
+- Models are generated as singular: `User`.
+- `Text` type allows more characters than `string`.
+- My IOS Notes has turned out to be a good spot for "jotting" down concept/code ideas when I'm away from my source code and notebook. It saves to iCloud, so I can get to it on my MPB. One caveat, I have to upgrade macOS to see tables I create.
+
+### Thoughts, Ideas, Questions
+
+- Second go-around of Rails Tutorial is being absorbed faster, include creating controllers and models. I know it's because of my exposure to rails in p/t and volunteer work. Chicken-and-the-egg problem: which do I do first... read books and watch videos or makes something? Both help each other, so a healthy mix is needed. I guess each journey is different.
+- To move forward, I'll roll my own authentication, but create a separate branch to experiment with Devise and OmniAuth.
+- Thinking about starting up my ARIA tutorial app as I work through this one. That way the fresh ideas, like authentication and table generation are fresh. It could be a secondary project, if the burden of research isn't too much (since I've been out of a11y learning mode for several months).
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [29] Day 30: 2017-12-16
 
 ### Today's Progress
@@ -9,10 +43,10 @@
 
 ### Time Spent
 
-1 hr 20 min
+1 hr 40 min
 
 ### Ideas/Techniques Learned
-- Installing the RSpec gem doesn't automatically create a spec directory. I had to run `rails generate rspec:install`.
+
 - Learning authentication and authorization basics for Rails
 - Repeat: planning before development is still so important!
 
@@ -46,6 +80,7 @@
 1 hr 15 min
 
 ### Ideas/Techniques Learned
+
 - Installing the RSpec gem doesn't automatically create a spec directory. I had to run `rails generate rspec:install`.
 - Learning authentication and authorization basics for Rails
 - I'd like to use Pundit and Devise later on down the road, without overwhelming myself too much.
