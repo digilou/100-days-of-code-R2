@@ -1,5 +1,34 @@
 # Week 5 Log
 
+## [31] Day 32: 2017-12-18
+
+### Today's Progress
+
+1. Worked through login page errors.
+2. Worked through 3 learn.co tutorials.
+3. Added to Rails documentation.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- The most basic form syntax: `<%= form_tag do %> <% end %>`
+
+### Thoughts, Ideas, Questions
+
+- 
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+
 ## [30] Day 31: 2017-12-17
 
 ### Today's Progress
