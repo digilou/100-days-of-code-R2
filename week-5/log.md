@@ -29,6 +29,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 - [Ruby on Rails 5 Essential Training](https://lynda.com)
+- [Set up a database on Cloud9](https://docs.c9.io/docs/setup-a-database)
 
 ## [31] Day 32: 2017-12-18
 
