@@ -1,5 +1,35 @@
 # Week 5 Log
 
+## [32] Day 33: 2017-12-19
+
+### Today's Progress
+
+1. Finished ch 3 of Hartl's Rails Tutorial. Started ch 4.
+2. Added "page title" to documentation.
+3. Setup C9 Ruby environment and started Ruby on Rails 5 Essential Training
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Refactoring application layout for a DRY page title. Defined a method to do this. Used method in application layout within title element.
+
+### Thoughts, Ideas, Questions
+
+- I can't thank my public library enough for my free learning on Lynda.com! Hours of valuable tutorials and learning at no cost to me.
+
+### Project I worked on
+
+- Rails photo-sharing app
+- Rails simple CMS app (via tutorial)
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Ruby on Rails 5 Essential Training](https://lynda.com)
+
 ## [31] Day 32: 2017-12-18
 
 ### Today's Progress
@@ -30,13 +60,14 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 - [Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+- [Intro to Ruby Development](https://learn.co)
 
 ## [30] Day 31: 2017-12-17
 
 ### Today's Progress
 
 1. Worked through some of Hartl's examples for setting up controllers and models for users and posts.
-2. Add more ideas/revisions to app planning.
+2. Added more ideas/revisions to app planning.
 3. Started documenting setup of a Rails app for my own reference.
 
 ### Time Spent
