@@ -5,7 +5,7 @@
 ### Today's Progress
 
 1. Worked through login page errors.
-2. Worked through 3 learn.co tutorials.
+2. Worked through 4 learn.co tutorials.
 3. Added to Rails documentation.
 
 ### Time Spent
@@ -15,14 +15,16 @@
 ### Ideas/Techniques Learned
 
 - The most basic form syntax: `<%= form_tag do %> <% end %>`
+- Methods `any?`, `even`, `odd`, `select`, and `include`.
 
 ### Thoughts, Ideas, Questions
 
-- 
+- Today was a day of broken thought, so I didn't make as much progress as I would've liked. This led to a fragmented day, as well. I really need a solid hour for coding/learning. However, a sick child is priority. Always.
 
 ### Project I worked on
 
 - Rails photo-sharing app
+- Rails Development tutorials
 
 ### Resources I found helpful
 
