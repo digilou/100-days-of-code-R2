@@ -1,5 +1,36 @@
 # Week 5 Log
 
+## [33] Day 34: 2017-12-20
+
+### Today's Progress
+
+1. Added Users controller.
+2. Added first integration test (for links across site).
+
+### Time Spent
+
+1 hr 11 min
+
+### Ideas/Techniques Learned
+
+- Integration test is a separate test type.
+- Smart pluralize isn't enough. International translations need to be considered.
+
+### Thoughts, Ideas, Questions
+
+- Still struggling with the little things, when I think I've mastered something. Feeling frustrated today.
+- On the positive side, I FINALLY created my users controller. And learned a bit about integration tests.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Ruby on Rails 5 Essential Training](https://lynda.com)
+- [Capybara](https://github.com/teamcapybara/capybara)
+
 ## [32] Day 33: 2017-12-19
 
 ### Today's Progress
