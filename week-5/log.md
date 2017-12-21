@@ -1,5 +1,33 @@
 # Week 5 Log
 
+## [34] Day 35: 2017-12-21
+
+### Today's Progress
+
+1. Added User model.
+2. Started writing validation specs for user model.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Still learning RSpec equivalents to default Rails test. Today I learned `expect().to be()` to replace `assert`.
+
+### Thoughts, Ideas, Questions
+
+- I starting feeling a bit lost as I deviate from Hartl's test and database choices. I've chosen to use RSpec and Postgres (even for development). An added challenge when I'd really just like to get my web app set up. I have to remember that it's also about the learning journey, and not just the project (which is equally important to me).
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [RSpec syntax for assert](https://stackoverflow.com/questions/36387274/what-is-the-rspec-syntax-equivalent-for-assert-minitest)
+
 ## [33] Day 34: 2017-12-20
 
 ### Today's Progress
