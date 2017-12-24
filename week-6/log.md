@@ -1,5 +1,39 @@
 # Week 6 Log
 
+## [37] Day 38: 2017-12-24
+
+### Today's Progress
+
+1. Wrote specs for users_signups.
+2. Finished ch 7 of Hartl's book.
+3. Updated signup routing to resolve `user` versus `signup` in url.
+4. Completed sign-up process!!
+5. Added flash welcome message.
+
+### Time Spent
+
+1 hr 20 min
+
+### Ideas/Techniques Learned
+
+- Happy that I have more "technical sophistication" than I give myself credit for.
+- More RSpec equivelants to test, using `expect().to`, etc. See cheatsheet resource below.
+- Adding a flash welcome message.
+
+### Thoughts, Ideas, Questions
+
+- Specs are still taking me awhile as I'm learning equivelants to tests in Hartl's book. Feels like wasted time toward my goal, yet valuable for the long run.
+- WOOHOO! Basic sign-up functionality is complete!
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [RSpec-rails cheatsheet](https://devhints.io/rspec-rails)
+
 ## [36] Day 37: 2017-12-23
 
 ### Today's Progress
@@ -7,6 +41,7 @@
 1. Added password and password confirmation to user table.
 2. Wrote specs and validations for password and confirmation.
 3. Started routing user information to user#show web page.
+4. Constructed ERB show page.
 
 ### Time Spent
 
