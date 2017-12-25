@@ -1,5 +1,35 @@
 # Week 6 Log
 
+## [38] Day 39: 2017-12-25
+
+### Today's Progress
+
+1. Completed sign-up functionality and spec, and deployed to Heroku.
+2. Enabled SSL (TLS) for my site.
+3. Started login page.
+
+### Time Spent
+
+1 hr 20 min
+
+### Ideas/Techniques Learned
+
+- First deploying to Heroku, my user model wasn't working. Found `heroku run rails db:migrate` helped. I skipped that step somewhere.
+- SSL is actually TLS (Transport Layer Security) now.
+
+### Thoughts, Ideas, Questions
+
+- Didn't think I'd code today. Tired. Hungry. And it's Christmas. Needed a break though, so coding made sense.
+- WOW. It's a good feeling to have deployed REAL signup functionality. AND SSL (TLS) is actually easy to enable in this situation. Next is login.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [37] Day 38: 2017-12-24
 
 ### Today's Progress
