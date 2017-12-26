@@ -1,5 +1,36 @@
 # Week 6 Log
 
+## [39] Day 40: 2017-12-26
+
+### Today's Progress
+
+1. Updated documentation/cheatsheet, which worked as review of sign-up/sign-in portions.
+2. Wrote specs and integration tests for login.
+3. Added error flash message.
+
+### Time Spent
+
+1 hr 10 min
+
+### Ideas/Techniques Learned
+
+- I think I'm finally understanding how classes work in this environment/language.
+
+### Thoughts, Ideas, Questions
+
+- Even on projects I want to work on (especially when not happening as fast as I want), I still find it hard to get myself rolling at the beginning.
+- I'm still very confused about rspec conversion. Maybe I should have stuck with the built in testing so I was less confused. Than jumped to rspec-rails when I'm ready.
+- Problem at root path. Probably because I set up my static page as login. I want to figure it out right now, but obligations of a mother call first. Tomorrow, hopefully.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Project: RSpec Rails 3.7 documentation](https://relishapp.com/rspec/rspec-rails/v/3-7/docs)
+
 ## [38] Day 39: 2017-12-25
 
 ### Today's Progress
