@@ -7,20 +7,23 @@
 1. Updated documentation/cheatsheet, which worked as review of sign-up/sign-in portions.
 2. Wrote specs and integration tests for login.
 3. Added error flash message.
+4. Completed basic login function.
 
 ### Time Spent
 
-1 hr 10 min
+2 hr 15 min
 
 ### Ideas/Techniques Learned
 
 - I think I'm finally understanding how classes work in this environment/language.
+- I'm still never too good to drop typos in my code often.
 
 ### Thoughts, Ideas, Questions
 
 - Even on projects I want to work on (especially when not happening as fast as I want), I still find it hard to get myself rolling at the beginning.
 - I'm still very confused about rspec conversion. Maybe I should have stuck with the built in testing so I was less confused. Than jumped to rspec-rails when I'm ready.
-- Problem at root path. Probably because I set up my static page as login. I want to figure it out right now, but obligations of a mother call first. Tomorrow, hopefully.
+- Google and StackOverflow are amazing.
+- So much learned about basic user and session management! Adding `if/else` to ERB template is a wonderful thing I love about programming for the web!
 
 ### Project I worked on
 
@@ -30,6 +33,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 - [Project: RSpec Rails 3.7 documentation](https://relishapp.com/rspec/rspec-rails/v/3-7/docs)
+- [Rails Uninitialized constant ApplicationController::SessionHelper](https://stackoverflow.com/questions/34420570/rails-uninitialized-constant-applicationcontrollersessionhelper)
 
 ## [38] Day 39: 2017-12-25
 
