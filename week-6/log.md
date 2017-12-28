@@ -1,5 +1,33 @@
 # Week 6 Log
 
+## [40] Day 41: 2017-12-27
+
+### Today's Progress
+
+1. Wrote more integration tests for basic login.
+2. Completed ch 7 of Hartl's tutorial.
+
+### Time Spent
+
+30 min
+
+### Ideas/Techniques Learned
+
+- Fixtures reside under specs. They're tangible examples to test. Watch out for tabs vs spaces in these files.
+
+### Thoughts, Ideas, Questions
+
+- Prioritized sleep and family today, so did just enough coding time to get through login integration tests so I'd be rewarded with advanced login tomorrow.
+- I was definitely rushing through tests/specs. Coding at night is not good for me.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [39] Day 40: 2017-12-26
 
 ### Today's Progress
