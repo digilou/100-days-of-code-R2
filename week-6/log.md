@@ -1,5 +1,31 @@
 # Week 6 Log
 
+## [41] Day 42: 2017-12-28
+
+### Today's Progress
+
+1. Started adding remember me token.
+
+### Time Spent
+
+30 min
+
+### Ideas/Techniques Learned
+
+- Cookies are treated as a hash. They also have a permanent method (`cookie.permanent`).
+
+### Thoughts, Ideas, Questions
+
+- 30 minutes isn't enough. But at least I'm moving forward rather than standing still.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [40] Day 41: 2017-12-27
 
 ### Today's Progress
