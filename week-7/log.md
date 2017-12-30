@@ -22,6 +22,7 @@
 - The more you know... Thought of the day: in coding, it takes a lot of perserverance of feeling stupid for awhile before you in start feeling confident and smart.
 - Gah! The last 3-4 days I have been so tired with my child not feeling/sleeping well. So, I feel lost in my coding and that time spent isn't really productive. I have to remember that this too shall pass, and that taking a couple steps forward is still moving forward, none-the-less.
 - "Remember Me" token all complete except for specs.
+- Practiced working through coordination of controller, helper, model, and view. Modulation is helpful, yet confusing, at times, to find all the pieces.
 
 ### Project I worked on
 
