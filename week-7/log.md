@@ -1,5 +1,36 @@
 # Week 7 Log
 
+## [43] Day 44: 2017-12-31
+
+### Today's Progress
+
+1. Wrote specs and spec helpers to complete advanced login with remember me token/digest with checkbox on view.
+2. Started ch 10 of Hartl's Rails tutorial, which includes updating, showing, and deleting users.
+3. Set up edit user page.
+
+### Time Spent
+
+1 hr 5 min
+
+### Ideas/Techniques Learned
+
+- `rel="noopener"` can be added to a link prevent a third-party phishing page from a security breach which gives the new page access to the `window.opener` object.
+
+### Thoughts, Ideas, Questions
+
+- I like the idea of BDD, but I still haven't got into the thinking yet. The syntax of RSpec being a stumbling block.
+- Tried to breeze through ch9. My son's cold is taking a toll on me, and I'm getting tired of hanging out in login setup for so long.
+- I've underestimated how many views/pages need to go into just user access like login and editing.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Open External Anchors using rel='noopener'](https://developers.google.com/web/tools/lighthouse/audits/noopener)
+
 ## [42] Day 43: 2017-12-30
 
 ### Today's Progress
