@@ -1,5 +1,33 @@
 # Week 7 Log
 
+## [44] Day 45: 2018-01-01
+
+### Today's Progress
+
+1. Wrote integration tests for edit/update profile page.
+2. Refactored form to user#new and user#edit to be shared by a partial.
+3. Set up `before_action` to create authorization of editing/updating profiles.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- `before_action` can be used to limit access to users. It's a built-in feature of rails.
+
+### Thoughts, Ideas, Questions
+
+- In the midst of holidays and sickness, I could start over in a week or so, but I figure some progress is better than no progress. However, this may be my last 100 Days of Code commitment so I can be more flexible with family this year.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [43] Day 44: 2017-12-31
 
 ### Today's Progress
