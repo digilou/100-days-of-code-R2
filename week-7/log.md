@@ -1,5 +1,36 @@
 # Week 7 Log
 
+## [45] Day 46: 2018-01-02
+
+### Today's Progress
+
+1. Coded alongside SVG examples in ch1.
+2. Created animated (CSS keyframes) stoplight.
+
+### Time Spent
+
+1 hr 50 min
+
+### Ideas/Techniques Learned
+
+- SVG is XML.
+- `<g>` is for grouping.
+- `<defs>` is defined styles that can be reused in `<use>`.
+- `cy` changes to `y` when `<circle>` is replaced by `<use`.
+
+### Thoughts, Ideas, Questions
+
+- New coding book for Xmas!! Perfect time to try out something fun when I'm sick.
+- Coding alongside reading is the best way to learn. Typing it out slows me down to assimilate it into my knowledge, and challenges me to see if I get the same results on my local environment.
+
+### Project I worked on
+
+- SVG experiments from scratch: [SVG stoplight](https://codepen.io/digilou/full/eyRamX/)
+
+### Resources I found helpful
+
+- [Using SVG with CSS3 & HTML5](https://github.com/oreillymedia/Using_SVG)
+
 ## [44] Day 45: 2018-01-01
 
 ### Today's Progress
