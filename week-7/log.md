@@ -1,5 +1,33 @@
 # Week 7 Log
 
+## [47] Day 48: 2017-01-04
+
+### Today's Progress
+
+1. Coded alongside examples in ch10 of Hartl's rails tutorial which limited users to editing only their own profile.
+2. Scanned ahead to see determine what additional features I'll use in my app that coincide with his.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Don't stop to criticize. Focus on the object at hand. Progress is made by making small steps forward. (see thoughts below)
+
+### Thoughts, Ideas, Questions
+
+- Focus on getting through the tutorial with as much gleaning as I can, but don't criticize yourself for not mastering it immediately. Baby steps. The intention is exposure, a degree of accomplishment (Rails app creation), and some experience. Current experience shows that I will get better if I keep tackling a variety of projects with the same frameworks, languages, and features.
+- Reminder: Nothing is too hard to code, if given enough time, commitment, and determination. Some days just go smoother than others.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [46] Day 47: 2018-01-03
 
 ### Today's Progress
