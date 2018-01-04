@@ -1,5 +1,36 @@
 # Week 7 Log
 
+## [46] Day 47: 2018-01-03
+
+### Today's Progress
+
+1. Coded alongside SVG examples in ch1 & ch2.
+2. Updated animated stoplight with JS, replacing the CSS keyframes.
+
+### Time Spent
+
+1 hr 10 min
+
+### Ideas/Techniques Learned
+
+- `<text>` tag for text.
+- SVG is XML and CSS. The two should not be separated. Though it's graphical, it is still a language in and of itself.
+- `<!CDATA[]]>` parses code as plain text. Used in standalone SVG file to wrap JS scripting.
+
+### Thoughts, Ideas, Questions
+
+- I knew a perk of SVG is accessibility. But I never thought about how accessible it could make maps, if created in SVG. Something to explore further.
+- Not only is SVG suited for icons and images, but it's strength lies in compatability with other languages to make a more interactive experience (widgets, maps, charts, and more).
+- I so so so <3 front-end work and coding. Learning it takes me away to another place where time doesn't exist. This is really the work I would prefer, though I want to understand what programming languages like JS and Ruby/Rails can do in concert.
+
+### Project I worked on
+
+- SVG experiments from scratch: [SVG stoplight](https://codepen.io/digilou/full/eyRamX/)
+
+### Resources I found helpful
+
+- [Using SVG with CSS3 & HTML5](https://github.com/oreillymedia/Using_SVG)
+
 ## [45] Day 46: 2018-01-02
 
 ### Today's Progress
