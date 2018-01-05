@@ -1,5 +1,36 @@
 # Week 7 Log
 
+## [48] Day 49: 2017-01-05
+
+### Today's Progress
+
+1. Coded alongside examples in ch2 of SVG book.
+2. Coded alongside examples in ch10 of Rails tutorial.
+
+### Time Spent
+
+1 hr 25 min
+
+### Ideas/Techniques Learned
+
+- `:valid` and `:invalid` pseudoclasses, which validate fields in forms (i.e. valid ? green : red)
+- Faker gem helps add data to table for added testing and error catches.
+
+### Thoughts, Ideas, Questions
+
+- Complete ch10 tomorrow. I'll follow more closely along with his examples to be sure I'm learning everything. Also, I need to go back and add Bootstrap just so I can progress further.
+- For New Year's resolution, I wonder if I can squeeze in a day from each week of my remaining 100 Days to contribute to open source...?
+
+### Project I worked on
+
+- SVG experiments from scratch: [animated SVG in form](https://codepen.io/digilou/pen/opGORO?editors=1000)
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Using SVG with CSS3 & HTML5](https://github.com/oreillymedia/Using_SVG)
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [47] Day 48: 2017-01-04
 
 ### Today's Progress
