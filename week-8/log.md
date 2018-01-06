@@ -4,7 +4,8 @@
 
 ### Today's Progress
 
-1. 
+1. Troubleshooting for problems with user editing and all users list.
+2. Set up github.io page for this repo so I can look back on it, given I never took extra time to blog on Carney Develop It.
 
 ### Time Spent
 
@@ -12,18 +13,18 @@
 
 ### Ideas/Techniques Learned
 
-- 
+- Refresher: check user in Rails console with `User.find_by_id(50)` to find user with the id of 50. I used this to verify that Faker and seeds worked.
+- Learned several ways to kill the rails server: `kill -9 {PID#}`, `ctrl+Z`, `killall -9 ruby`. All with mixed results!
 
 ### Thoughts, Ideas, Questions
 
-- 
+- Faker is working! It's something in my code that's broken.
+- Tomorrow I'll go back to the master branch and start ch10 over, begrudgingly.
 
 ### Project I worked on
 
-- SVG experiments from scratch: [animated SVG in form](https://codepen.io/digilou/pen/opGORO?editors=1000)
 - Rails photo-sharing app
 
 ### Resources I found helpful
 
-- [Using SVG with CSS3 & HTML5](https://github.com/oreillymedia/Using_SVG)
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
