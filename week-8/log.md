@@ -6,10 +6,11 @@
 
 1. Troubleshooting for problems with user editing and all users list.
 2. Set up github.io page for this repo so I can look back on it, given I never took extra time to blog on Carney Develop It.
+3. Experimented with SVG in CSS.
 
 ### Time Spent
 
-1 hr
+2 hr
 
 ### Ideas/Techniques Learned
 
@@ -24,7 +25,9 @@
 ### Project I worked on
 
 - Rails photo-sharing app
+- [SVG in CSS](https://codepen.io/digilou/full/WdXyzZ/)
 
 ### Resources I found helpful
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- Using SVG in CSS3 & HTML5 by Amelia Bellamy-Royds
