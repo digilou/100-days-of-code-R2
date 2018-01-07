@@ -1,5 +1,38 @@
 # Week 8 Log
 
+## [50] Day 51: 2017-01-07
+
+### Today's Progress
+
+1. Pinpointed that email wasn't being accepted into database.
+2. Erased db data and seeded with new fake users.
+3. Left answer on StackOverflow to help someone else experiencing the same problem I had: https://stackoverflow.com/questions/47367673/gravatar-for-no-method-error-hartl-rails-chapter-7/48140914#48140914
+4. Everything is working again!
+
+### Time Spent
+
+2 hr 35 min
+
+### Ideas/Techniques Learned
+
+- `downcase!` seemed to be preventing email of new/updated user from entering the database.
+- `User.destroy_all` erases all data in database.
+
+### Thoughts, Ideas, Questions
+
+- So, why was a new user even created without throwing an error??
+- Cleared data, but id#s continued on up from 190 instead of resetting to 1.
+- Tomorrow I'll test to see that I can't edit someone else's profile from mine.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Delete all in Rails console](https://stackoverflow.com/questions/17744008/delete-all-in-rails-console)
+
 ## [49] Day 50: 2017-01-06
 
 ### Today's Progress
