@@ -1,5 +1,34 @@
 # Week 8 Log
 
+## [51] Day 52: 2017-01-08
+
+### Today's Progress
+
+1. Fixed "remember me" issue.
+2. Added admin boolean column to users.
+3. Deleted some users to verify that destory works.
+
+### Time Spent
+
+1 hr 25 min
+
+### Ideas/Techniques Learned
+
+- `destroy`
+
+### Thoughts, Ideas, Questions
+
+- "remember me" helper was missing a parameter and assignment value was `user_id` instead of the correct `user.id`. Typos abound!
+- Small win in that I was right on par coding ahead of some examples. I understood this delete implementation better.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [50] Day 51: 2017-01-07
 
 ### Today's Progress
