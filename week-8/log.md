@@ -8,10 +8,13 @@
 2. Erased db data and seeded with new fake users.
 3. Left answer on StackOverflow to help someone else experiencing the same problem I had: https://stackoverflow.com/questions/47367673/gravatar-for-no-method-error-hartl-rails-chapter-7/48140914#48140914
 4. Everything is working again!
+5. Bootstrap and Will Paginate gems added.
+6. Pagination added.
+7. Bootstrap styling added to most views.
 
 ### Time Spent
 
-2 hr 35 min
+3 hr 35 min
 
 ### Ideas/Techniques Learned
 
@@ -22,7 +25,9 @@
 
 - So, why was a new user even created without throwing an error??
 - Cleared data, but id#s continued on up from 190 instead of resetting to 1.
+- I really wanted to experiment with pagination and want to focus more on backend, so I added Bootstrap to push the progress of my app further along faster. It was a tough call because I wanted to style from scratch, but my pride from this app is more in that I'm building the whole thing myself. I have other work that will show off my design (CSS, UX, a11y) skill set.
 - Tomorrow I'll test to see that I can't edit someone else's profile from mine.
+- Also, rememember_me function doesn't seem to function right.
 
 ### Project I worked on
 
