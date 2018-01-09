@@ -1,5 +1,32 @@
 # Week 8 Log
 
+## [52] Day 53: 2017-01-09
+
+### Today's Progress
+
+1. Wrote specs to test that non-admins cannot delete other users.
+2. Finished ch10 and began ch11 of Rails tutorial.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- 
+
+### Thoughts, Ideas, Questions
+
+- 
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [51] Day 52: 2017-01-08
 
 ### Today's Progress
