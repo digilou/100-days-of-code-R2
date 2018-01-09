@@ -6,6 +6,7 @@
 
 1. Wrote specs to test that non-admins cannot delete other users.
 2. Finished ch10 and began ch11 of Rails tutorial.
+3. Pushed to Heroku.
 
 ### Time Spent
 
@@ -13,11 +14,16 @@
 
 ### Ideas/Techniques Learned
 
-- 
+- `heroku pg:reset DATABASE` clears data from database in heroku. Useful, if not a little scary.
 
 ### Thoughts, Ideas, Questions
 
-- 
+- Trouble with Bitbucket. Apparently I'm not the only one:
+    - [ssh_exchange_identification: Connection closed by remote host](https://bitbucket.org/site/master/issues/12435/ssh_exchange_identification-connection)
+    - [git push remote end hung up](https://bitbucket.org/site/master/issues/7567/git-push-remote-end-hung-up)
+- Looking for RSpec resources to learn syntax:
+    - [RSpec](http://rspec.info)
+- Next up is account activation, which is JUST what I was thinking about yesterday. So glad Hartl covers it!
 
 ### Project I worked on
 
