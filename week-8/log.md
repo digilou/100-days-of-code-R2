@@ -1,5 +1,36 @@
 # Week 8 Log
 
+## [53] Day 54: 2017-01-010
+
+### Today's Progress
+
+1. Added data to user model: activation, activated on, and activated digest.
+2. Generated a user mailer for account activation and password reset.
+3. Customized account activation mailer.
+
+### Time Spent
+
+1 hr 45 min
+
+### Ideas/Techniques Learned
+
+- Bitbucket troubleshooting not necessary. It turns out that they're having server and storage issues themselves.
+- `rails generate mailer UserMailer account_activation password_reset` creates 2 mailers.
+- CGI module escape method to escape out troublesome characters in URL: `CGI.escape("Don't panic!")` == "Don%27t+panic%21". Rails does this automatically.
+
+### Thoughts, Ideas, Questions
+
+- Question: why is `rails db:migrate:reset` not clearing my data so I can reseed new data?
+- Thoughts: I now have a much clearer idea how mailers work. SO EXCITING!
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [52] Day 53: 2017-01-09
 
 ### Today's Progress
