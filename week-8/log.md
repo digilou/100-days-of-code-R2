@@ -1,5 +1,32 @@
 # Week 8 Log
 
+## [54] Day 55: 2017-01-011
+
+### Today's Progress
+
+1. Tested account activation mailer.
+2. Added more restraints to user activation.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- metaprogramming = a program that writes a program
+
+### Thoughts, Ideas, Questions
+
+- So exciting to get further in mailer user. Ran out of time to get to actual production testing.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [53] Day 54: 2017-01-010
 
 ### Today's Progress
