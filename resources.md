@@ -29,3 +29,13 @@ I did a lot of reading and researching, but I wanted to call out the resources t
 
 ### Website
 - [Publisher: RSpec - Relish](https://relishapp.com/rspec)
+
+## SVG
+
+### Books
+- Using SVG with CSS3 and HTML5 by Amelia Bellamy-Royds, Kurt Cagle, Dudley Storey
+- Practical SVG by Chris Coyier
+
+### Websites
+- [Open Clipart Project](https://openclipart.org/)
+- [The Noun Project - Icons for everything](https://thenounproject.com/)
