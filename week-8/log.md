@@ -6,22 +6,25 @@
 
 1. Started ch12 of Rails Tutorial
 2. Submitted PR for WWC issue: changed subject line in mailer.
+3. Set up SendGrid for production and sent activation email to myself.
 
 ### Time Spent
 
-1 hr 30 min
+2 hr 30 min
 
 ### Ideas/Techniques Learned
 
-- n/a
+- Reminder: `@user` to replace `user` gets me every time.
 
 ### Thoughts, Ideas, Questions
 
 - WWC changed their testing method, so I was a bit lost (despite initial overconfidence) when trying to test if the mailer subject changed.
+- It's SO COOL to see activation email come into my inbox!!
 
 ### Project I worked on
 
 - Women Who Code website
+- Rails photo-sharing app
 
 ### Resources I found helpful
 
