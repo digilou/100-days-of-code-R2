@@ -1,6 +1,6 @@
 # Week 8 Log
 
-## [55] Day 56: 2018-01-012
+## [55] Day 56: 2018-01-12
 
 ### Today's Progress
 
@@ -30,7 +30,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [54] Day 55: 2018-01-011
+## [54] Day 55: 2018-01-11
 
 ### Today's Progress
 
@@ -57,7 +57,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [53] Day 54: 2018-01-010
+## [53] Day 54: 2018-01-10
 
 ### Today's Progress
 
