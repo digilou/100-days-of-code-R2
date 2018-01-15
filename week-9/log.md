@@ -1,6 +1,6 @@
 # Week 9
 
-## [57] Day 58: 2017-01-014
+## [57] Day 58: 2018-01-014
 
 ### Today's Progress
 
@@ -34,7 +34,7 @@
 - [edX CS50 course by Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
-## [56] Day 57: 2017-01-013
+## [56] Day 57: 2018-01-013
 
 ### Today's Progress
 
