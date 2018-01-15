@@ -1,6 +1,6 @@
 # Week 7 Log
 
-## [48] Day 49: 2017-01-05
+## [48] Day 49: 2018-01-05
 
 ### Today's Progress
 
@@ -31,7 +31,7 @@
 - [Using SVG with CSS3 & HTML5](https://github.com/oreillymedia/Using_SVG)
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [47] Day 48: 2017-01-04
+## [47] Day 48: 2018-01-04
 
 ### Today's Progress
 
