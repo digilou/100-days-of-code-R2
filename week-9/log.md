@@ -1,6 +1,32 @@
 # Week 9
 
-## [57] Day 58: 2018-01-014
+## [58] Day 59: 2018-01-15
+
+### Today's Progress
+
+1. 
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- 
+
+### Thoughts, Ideas, Questions
+
+- 
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
+## [57] Day 58: 2018-01-14
 
 ### Today's Progress
 
@@ -15,7 +41,7 @@
 
 - `text` data type allows more than 255 characters.
 - `reference` type associates (references) models.
-- RSpec: `assert microposts.valid?` == `expect(microposts).to be true`. (I think??)
+- RSpec: `assert @microposts.valid?` == `expect(@microposts.valid).to be true`. (I think??)
 
 ### Thoughts, Ideas, Questions
 
@@ -35,7 +61,7 @@
 - [edX CS50 course by Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
-## [56] Day 57: 2018-01-013
+## [56] Day 57: 2018-01-13
 
 ### Today's Progress
 
