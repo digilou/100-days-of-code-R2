@@ -31,6 +31,7 @@
 ### Resources I found helpful
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [RSpec: Built in matchers](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
 - [edX CS50 course by Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
