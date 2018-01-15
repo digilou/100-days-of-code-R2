@@ -4,19 +4,21 @@
 
 ### Today's Progress
 
-1. 
+1. Added more specs to micropost model and associated microposts with users.
+2. Wrote down image gallery ideas alongside micropost work, so I could capture the same ideas.
 
 ### Time Spent
 
-1 hr
+2 hr
 
 ### Ideas/Techniques Learned
 
-- 
+- `.errors.full_messages` to see full error message in console.
+- `has_many :microposts` model associations
 
 ### Thoughts, Ideas, Questions
 
-- 
+- Running through the micropost tutorial (ch13) to glean the code I need for likes, comments, and image gallery features for my app.
 
 ### Project I worked on
 
@@ -25,6 +27,7 @@
 ### Resources I found helpful
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [RSpec: Built in matchers](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
 
 ## [57] Day 58: 2018-01-14
 
