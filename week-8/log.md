@@ -1,6 +1,6 @@
 # Week 8 Log
 
-## [55] Day 56: 2017-01-012
+## [55] Day 56: 2018-01-012
 
 ### Today's Progress
 
@@ -30,7 +30,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [54] Day 55: 2017-01-011
+## [54] Day 55: 2018-01-011
 
 ### Today's Progress
 
@@ -57,7 +57,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [53] Day 54: 2017-01-010
+## [53] Day 54: 2018-01-010
 
 ### Today's Progress
 
@@ -88,7 +88,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [52] Day 53: 2017-01-09
+## [52] Day 53: 2018-01-09
 
 ### Today's Progress
 
@@ -121,7 +121,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [51] Day 52: 2017-01-08
+## [51] Day 52: 2018-01-08
 
 ### Today's Progress
 
@@ -150,7 +150,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 
-## [50] Day 51: 2017-01-07
+## [50] Day 51: 2018-01-07
 
 ### Today's Progress
 
@@ -188,7 +188,7 @@
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 - [Delete all in Rails console](https://stackoverflow.com/questions/17744008/delete-all-in-rails-console)
 
-## [49] Day 50: 2017-01-06
+## [49] Day 50: 2018-01-06
 
 ### Today's Progress
 
