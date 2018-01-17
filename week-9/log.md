@@ -29,6 +29,7 @@
 ### Resources I found helpful
 
 - [How to remove a column from a database?](https://stackoverflow.com/questions/38820188/rails-5-how-to-remove-a-column-from-a-database)
+- [Run RSpec tests from specific folder](https://stackoverflow.com/questions/21531774/run-rspec-tests-from-specific-folder-using-rake)
 
 ## [58] Day 59: 2018-01-15
 
