@@ -1,5 +1,35 @@
 # Week 9
 
+## [59] Day 60: 2018-01-16
+
+### Today's Progress
+
+1. Removed a column from a table.
+2. Removed specs that applied to that column.
+3. Evaluated models that may have been associated with that column.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- `rails g migration RemoveColumnFromTables col1:integer` requests removal of a column from a table, specifically "col1" from Tables table.
+- `rspec spec/profiles_spec.rb` targets this specific file for running tests.
+
+### Thoughts, Ideas, Questions
+
+- Taking a leap into backend that I don't normally do, but the Rails tutorial has given me a little confidence on basics such as database migration, spec modification, and models.
+- The specs are tripping me up, but I think that's because I'm trying to follow the thread of someone else's code.
+
+### Project I worked on
+
+- Women Who Code website
+
+### Resources I found helpful
+
+- [How to remove a column from a database?](https://stackoverflow.com/questions/38820188/rails-5-how-to-remove-a-column-from-a-database)
+
 ## [58] Day 59: 2018-01-15
 
 ### Today's Progress
