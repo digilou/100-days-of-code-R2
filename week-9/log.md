@@ -1,5 +1,31 @@
 # Week 9
 
+## [60] Day 61: 2018-01-17
+
+### Today's Progress
+
+1. Worked through Codeship failures to update specs after removing column yesterday.
+
+### Time Spent
+
+35 min
+
+### Ideas/Techniques Learned
+
+- 
+
+### Thoughts, Ideas, Questions
+
+- Broke a bunch of spec tests (51 failures!). Trying to get a handle on the association of profile and network_id.
+
+### Project I worked on
+
+- Women Who Code website
+
+### Resources I found helpful
+
+- n/a
+
 ## [59] Day 60: 2018-01-16
 
 ### Today's Progress
