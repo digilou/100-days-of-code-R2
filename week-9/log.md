@@ -1,5 +1,34 @@
 # Week 9
 
+## [61] Day 62: 2018-01-18
+
+### Today's Progress
+
+1. Set up micropost view and integration tests.
+2. Documented code for application to my image, comment, and like features.
+
+### Time Spent
+
+1 hr 30 min
+
+### Ideas/Techniques Learned
+
+- `User.find_each(&:destroy)` cleared my Users table data so I could start fresh with newly seeded test data.
+- `time_ago_in_words` method
+
+### Thoughts, Ideas, Questions
+
+- Making progress! It seemed like an 1.5 hr work on my app flew by with so much more still to be done.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+- [Delete all in Rails console](https://stackoverflow.com/questions/17744008/delete-all-in-rails-console)
+
 ## [60] Day 61: 2018-01-17
 
 ### Today's Progress
@@ -8,11 +37,11 @@
 
 ### Time Spent
 
-35 min
+1 hr
 
 ### Ideas/Techniques Learned
 
-- 
+- n/a
 
 ### Thoughts, Ideas, Questions
 
