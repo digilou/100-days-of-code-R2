@@ -6,10 +6,11 @@
 
 1. Set up micropost view and integration tests.
 2. Documented code for application to my image, comment, and like features.
+3. Started CSS grid tutorial
 
 ### Time Spent
 
-1 hr 30 min
+2 hr
 
 ### Ideas/Techniques Learned
 
@@ -28,6 +29,7 @@
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
 - [Delete all in Rails console](https://stackoverflow.com/questions/17744008/delete-all-in-rails-console)
+- [CSS Grid](https://cssgrid.io) by Wes Bos
 
 ## [60] Day 61: 2018-01-17
 
