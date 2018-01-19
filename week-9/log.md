@@ -1,5 +1,33 @@
 # Week 9
 
+## [62] Day 63: 2018-01-19
+
+### Today's Progress
+
+1. Worked through failed specs (unsuccessfully).
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- n/a
+
+### Thoughts, Ideas, Questions
+
+- Now I'm up to 53 failures. This is not going well.
+- After spending a lot of time trying to follow breadcrumbs to the spec failures, I dropped the issue for someone else to resolve. I want to help, but spending half my week doing it takes away from what I'm trying to achieve, overall.
+- Know when to push through, ask for help, or let it go.
+
+### Project I worked on
+
+- Women Who Code
+
+### Resources I found helpful
+
+- n/a
+
 ## [61] Day 62: 2018-01-18
 
 ### Today's Progress
@@ -24,6 +52,7 @@
 ### Project I worked on
 
 - Rails photo-sharing app
+- CSS Grid tutorial
 
 ### Resources I found helpful
 
