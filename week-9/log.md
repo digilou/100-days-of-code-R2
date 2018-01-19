@@ -8,11 +8,11 @@
 
 ### Time Spent
 
-1 hr
+1 hr 15 min
 
 ### Ideas/Techniques Learned
 
-- n/a
+- Refresher: `git branch --D <branch-name>` for local delete. `git push origin --delete <branch-name>` for remote delete.
 
 ### Thoughts, Ideas, Questions
 
