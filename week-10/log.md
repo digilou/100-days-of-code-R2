@@ -4,7 +4,7 @@
 
 ### Today's Progress
 
-1. 
+1. Created form for submitting microposts.
 
 ### Time Spent
 
@@ -12,11 +12,11 @@
 
 ### Ideas/Techniques Learned
 
-- 
+- `"aria-label": "Compose microposts."` is how to insert aria attributes into ERB.
 
 ### Thoughts, Ideas, Questions
 
-- 
+- So tired today that I didn't want to code. BUT, little progress is better than no progress at all. Now I'm a little further along on microposts.
 
 ### Project I worked on
 
