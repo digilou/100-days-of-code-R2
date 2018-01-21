@@ -1,5 +1,34 @@
 # Week 10
 
+## [64] Day 65: 2018-01-21
+
+### Today's Progress
+
+1. Set up carrierwave gem.
+2. Added image uploading capability to microposts.
+3. Added to documentation for future image upload prospects.
+
+### Time Spent
+
+1 hr 15 min
+
+### Ideas/Techniques Learned
+
+- Learned how to use carrierwave for image uploading.
+
+### Thoughts, Ideas, Questions
+
+- This was an exciting part of my learning! Uploading images to the web is a huge detail to learn in Rails and web dev!
+- Tomorrow I'll configure an AWS S3 bucket.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [63] Day 64: 2018-01-20
 
 ### Today's Progress
