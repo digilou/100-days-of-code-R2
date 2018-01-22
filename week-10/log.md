@@ -1,5 +1,33 @@
 # Week 10
 
+## [65] Day 66: 2018-01-22
+
+### Today's Progress
+
+1. Set up AWS account.
+2. Explored Amazon S3 photo bucket options.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- n/a
+
+### Thoughts, Ideas, Questions
+
+- Blah! I really don't like the DevOps part of this work. Setting up a site (in this case, a cloud photo bucket) is not exciting to me at all.
+- Would love to set up my own "photo bucket" on my own RPi server.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [64] Day 65: 2018-01-21
 
 ### Today's Progress
