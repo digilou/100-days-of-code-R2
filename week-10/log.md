@@ -1,5 +1,32 @@
 # Week 10
 
+## [66] Day 67: 2018-01-23
+
+### Today's Progress
+
+1. Coded alongside ch14 of Rails tutorial (relationships/following users).
+2. Documented steps with customization for my app intentions.
+
+### Time Spent
+
+1 hr 15 min
+
+### Ideas/Techniques Learned
+
+- `:active_relationships`
+
+### Thoughts, Ideas, Questions
+
+- There's still a lot to take in, but I am trying to take it slow and document alongside it, as I continue to plan an image gallery for my app.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [65] Day 66: 2018-01-22
 
 ### Today's Progress
