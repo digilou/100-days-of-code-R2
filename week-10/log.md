@@ -1,5 +1,33 @@
 # Week 10
 
+## [67] Day 68: 2018-01-24
+
+### Today's Progress
+
+1. Coded alongside ch14 of Rails tutorial (relationships/following users).
+2. Documented steps with customization for my app intentions.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- `through`
+- `<%= @user.following.count %>` to bring in the count of other users following you.
+
+### Thoughts, Ideas, Questions
+
+- Slow going this morning. Being woken up at 4 does little for my productivity. Picked up the pace by the time I had to go to work. Boooooo.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [66] Day 67: 2018-01-23
 
 ### Today's Progress
