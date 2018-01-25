@@ -1,5 +1,34 @@
 # Week 10
 
+## [68] Day 69: 2018-01-25
+
+### Today's Progress
+
+1. Coded alongside ch14 of Rails tutorial (follow/unfollow buttons).
+2. Documented steps with customization for my app intentions.
+
+### Time Spent
+
+1 hr 10 min
+
+### Ideas/Techniques Learned
+
+- There's a `js.erb` file type!
+
+### Thoughts, Ideas, Questions
+
+- Almost done with his book!
+- A bit nervous about stepping off the tutorial cliff with my own ideas and customizations.
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
+
 ## [67] Day 68: 2018-01-24
 
 ### Today's Progress
