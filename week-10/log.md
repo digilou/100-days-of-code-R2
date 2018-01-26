@@ -1,5 +1,35 @@
 # Week 10
 
+## [69] Day 70: 2018-01-26
+
+### Today's Progress
+
+1. Completed ch14 of Rails tutorial.
+2. Add a couple updates to my documentation toward my photo-sharing app.
+3. Started planning out serious commitment to complete mobile web class (Google Udacity Scholarship class).
+
+### Time Spent
+
+1 hr 20 min
+
+### Ideas/Techniques Learned
+
+- SQL code can go inside a variable
+  `following_ids = "SELECT followed_id FROM relationships
+                     WHERE  follower_id = :user_id"`
+
+### Thoughts, Ideas, Questions
+
+- It felt good to finish the entire tutorial!! (I rushed a bit at the end, but mostly because I know I won't be adding some of this into my photo-sharing app).
+
+### Project I worked on
+
+- Rails photo-sharing app
+
+### Resources I found helpful
+
+- [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
+
 ## [68] Day 69: 2018-01-25
 
 ### Today's Progress
@@ -27,7 +57,6 @@
 ### Resources I found helpful
 
 - [Rails Tutorial](https://www.railstutorial.org/book/) by Michael Hartl
-
 
 ## [67] Day 68: 2018-01-24
 
