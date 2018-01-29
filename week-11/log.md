@@ -1,5 +1,35 @@
 # Week 11
 
+## [72] Day 73: 2018-01-29
+
+### Today's Progress
+
+1. Worked through more of week 3 (focus on maintaining caching) of the Google Udacity Scholaship Mobile Web course.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- `activate` event listener
+- `caches.delete(cacheName)` for deleting a cache
+- `caches.keys()` to list all caches
+- `return Promise.all()` can be used to wrap several promises
+
+### Thoughts, Ideas, Questions
+
+- So. Much. Information.
+- Time to dive back into JavaScript learning to keep up. I'm struggling to understand some things.
+
+### Project I worked on
+
+- Google Udacity Scholarship: Mobile Web
+
+### Resources I found helpful
+
+- Udacity course
+
 ## [71] Day 72: 2018-01-28
 
 ### Today's Progress
