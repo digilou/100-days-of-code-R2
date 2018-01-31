@@ -1,5 +1,33 @@
 # Week 11
 
+## [73] Day 74: 2018-01-30
+
+### Today's Progress
+
+1. Read through part of chapter 6 (The Document Object Model) of JavaScript: Novice to Ninja, 2nd edition.
+2. Typed out and organized examples to be put in a repo as a cheatsheet.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Getting elements.
+- Getting nodes.
+
+### Thoughts, Ideas, Questions
+
+- Once again, note taking proves its worth. It slows my information consumption and digestion. JavaScript doesn't seem quite as foggy tonight.
+
+### Project I worked on
+
+- learning JavaScript
+
+### Resources I found helpful
+
+- JavaScript: Novice to Ninja
+
 ## [72] Day 73: 2018-01-29
 
 ### Today's Progress
