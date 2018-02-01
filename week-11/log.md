@@ -1,5 +1,34 @@
 # Week 11
 
+## [74] Day 75: 2018-01-31
+
+### Today's Progress
+
+1. Read through part of chapter 6 (The Document Object Model) of JavaScript: Novice to Ninja, 2nd edition.
+2. Added more examples to my repo.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Setting elements.
+- Creating elements.
+- Adding/Removing elements.
+
+### Thoughts, Ideas, Questions
+
+- Trying to get into the JS mind, but late nights are brutal after a frustrating day.
+
+### Project I worked on
+
+- [JavaScript cheatsheet](https://github.com/digilou/javascript-cheatsheets)
+
+### Resources I found helpful
+
+- JavaScript: Novice to Ninja
+
 ## [73] Day 74: 2018-01-30
 
 ### Today's Progress
