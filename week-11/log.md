@@ -1,5 +1,36 @@
 # Week 11
 
+## [75] Day 76: 2018-02-01
+
+### Today's Progress
+
+1. Read through part of chapter 7 (Events) of JavaScript: Novice to Ninja, 2nd edition.
+2. Reorganized structure of DOM cheatsheets.
+3. Added events and glossary.
+4. Updated readme.
+
+### Time Spent
+
+1 hr 30 min
+
+### Ideas/Techniques Learned
+
+- `innerHTML` was standardized in HTML5
+- `addEventListner` is not supported in older IE (<9).
+
+### Thoughts, Ideas, Questions
+
+- Writing out the basics is definitely making me think about JS more.
+- Taking the perspective of a designer, as if explaining to other designers, is helpful and rewarding.
+
+### Project I worked on
+
+- [JavaScript cheatsheet](https://github.com/digilou/javascript-cheatsheets)
+
+### Resources I found helpful
+
+- JavaScript: Novice to Ninja
+
 ## [74] Day 75: 2018-01-31
 
 ### Today's Progress
