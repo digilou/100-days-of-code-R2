@@ -1,5 +1,32 @@
 # Week 11
 
+## [76] Day 77: 2018-02-02
+
+### Today's Progress
+
+1. Updated local environment for Women Who Code contributions.
+
+### Time Spent
+
+45 min
+
+### Ideas/Techniques Learned
+
+- `brew cask upgrade` to upgrade Homebrew casks.
+- Finally caught on, `../` gets me back a directory && `../../` steps back two directories.
+
+### Thoughts, Ideas, Questions
+
+- It's frustrating to waste time on environment. Especially when it's a well-used environment, and updates keep setting me back.
+
+### Project I worked on
+
+- Women Who Code website
+
+### Resources I found helpful
+
+- [Homebrew Cask docs](https://github.com/caskroom/homebrew-cask/blob/master/USAGE.md)
+
 ## [75] Day 76: 2018-02-01
 
 ### Today's Progress
