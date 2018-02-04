@@ -5,7 +5,8 @@
 ### Today's Progress
 
 1. Updated local environment for Women Who Code contributions.
-2. Took notes on RSpec.
+2. Updated WWC About page.
+3. Took notes on RSpec.
 
 ### Time Spent
 
