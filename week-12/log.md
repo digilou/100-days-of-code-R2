@@ -1,5 +1,39 @@
 # Week 12
 
+## [78] Day 79: 2018-02-04
+
+### Today's Progress
+
+1. Quick update to WWC about page.
+2. Watched a couple Fun Fun Function videos about `.bind()` and `this`.
+3. Started "Programming JavaScript Applications" book.
+4. Added more code examples to my JS cheatsheet.
+
+### Time Spent
+
+1 hr 30 min
+
+### Ideas/Techniques Learned
+
+- Didn't fully realize the problems `this` could present. Know I understand the scope a little better when a method with `this` is assigned to a variable, and that function (lambda?) is called.
+- Lambda is a function used as a data variable or return value.
+
+### Thoughts, Ideas, Questions
+
+- Learning JavaScript really is like falling down a rabbit hole!
+- It's encouraging to see JS devs have a sense of humor about JS's quirks and hardships, yet still loving it and acknowleding how useful and relevant the language is.
+- I need to learn more about JS testing (TDD). While learning RSpec (BDD), I should be able to pick it up a little quicker. Looks like React has something built-in for testing.
+
+### Project I worked on
+
+- JavaScript cheatsheet
+- WWC website
+
+### Resources I found helpful
+
+- [Fun Fun Functions: Object Creation #1](https://youtu.be/GhbhD1HR5vk)
+- Programming JavaScript Applications by Eric Elliot
+
 ## [77] Day 78: 2018-02-03
 
 ### Today's Progress
