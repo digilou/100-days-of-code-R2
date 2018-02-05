@@ -1,5 +1,29 @@
 # Week 12
 
+## [79] Day 80: 2018-02-05
+
+### Today's Progress
+
+1. Watched another Fun Fun Function videos about `.bind()` and `this`.
+2. Read about functions in "Programming JavaScript Applications" book.
+3. Added to my JS cheatsheet.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- n/a
+
+### Thoughts, Ideas, Questions
+
+- Scattered in thought today.
+
+### Project I worked on
+
+- JavaScript cheatsheet
+
 ## [78] Day 79: 2018-02-04
 
 ### Today's Progress
