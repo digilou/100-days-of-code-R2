@@ -1,5 +1,37 @@
 # Week 12
 
+## [80] Day 81: 2018-02-06
+
+### Today's Progress
+
+1. Watched a Fun Fun Function videos about `promises`.
+2. Finished reading about functions in "Programming JavaScript Applications" book.
+3. Added to my JS cheatsheet.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Promises are like callbacks, but more so with more features. But they're not supported in IE11! (without polyfill)
+
+### Thoughts, Ideas, Questions
+
+- I'll get back to my photo app soon. Trying to grasp some JS concepts for coursework and side project, first.
+- I need to find something more applicable to test out the use of promises. I'm seeing this in my coursework a lot though, which is funny since he says he uses ES5, but promises are ES6.
+
+### Project I worked on
+
+- JavaScript cheatsheet
+
+### Resources I found helpful
+
+- [Fun Fun Functions: Promises1](https://youtu.be/2d7s3spWAzo)
+- [Polyfills: Everything you wanted to know, or maybe a bit less](https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423)
+- [Polyfill.io](https://polyfill.io/v2/docs/)
+- Programming JavaScript Applications by Eric Elliot
+
 ## [79] Day 80: 2018-02-05
 
 ### Today's Progress
