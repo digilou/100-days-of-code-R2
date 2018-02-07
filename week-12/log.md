@@ -1,5 +1,36 @@
 # Week 12
 
+## [81] Day 82: 2018-02-07
+
+### Today's Progress
+
+1. Watched a Fun Fun Function videos about `prototypes`.
+2. Finished reading about objects in "Programming JavaScript Applications" book.
+3. Added to my JS cheatsheet.
+
+### Time Spent
+
+1 hr 30 min
+
+### Ideas/Techniques Learned
+
+- There's a struggle between prototypes and classes (inheritance).
+- Eric's book helped me understand how JS is going modular (hooray!), and why all these packages and plug-ins exist now.
+
+### Thoughts, Ideas, Questions
+
+- Dreamed about prototyping last night. Weird thing was, immediately after I woke up, it's like I grasped the concept. After time passed, not so much. Sigh.
+- Eventually I need to do some practice with Grunt, Browserify, and a package.json file.
+
+### Project I worked on
+
+- JavaScript cheatsheet
+
+### Resources I found helpful
+
+- [Fun Fun Functions: Prototype Basics](https://youtu.be/YkoelSTUy7A)
+- Programming JavaScript Applications by Eric Elliot
+
 ## [80] Day 81: 2018-02-06
 
 ### Today's Progress
