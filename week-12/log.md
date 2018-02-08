@@ -1,5 +1,35 @@
 # Week 12
 
+## [82] Day 83: 2018-02-08
+
+### Today's Progress
+
+1. Read about separation of concerns (MV* frameworks) in "Programming JavaScript Applications" book.
+2. Joined sub-group in my Google-Udacity class to create an offline-first maps app.
+
+### Time Spent
+
+1 hr 20 min
+
+### Ideas/Techniques Learned
+
+- Introduced to the Shadow DOM and how elements can be created in the Shadow DOM via `.attachShadow` and `.createElement`. Still much to learn.
+
+### Thoughts, Ideas, Questions
+
+- To-Do MVC is a resource I'd like to remember to tap into once explore JS frameworks a bit more. Especially when I start Wes Bos's React course.
+
+### Project I worked on
+
+- [JavaScript cheatsheet](https://github.com/digilou/javascript-cheatsheets)
+- [GWG Women Techmakers app](https://github.com/gwg-women/gwg-women-techmakers)
+
+### Resources I found helpful
+
+- [To-Do MVC: Helping you select an MV* framework](http://todomvc.com)
+- Programming JavaScript Applications by Eric Elliot
+- [Custom Element Registry](https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define)
+
 ## [81] Day 82: 2018-02-07
 
 ### Today's Progress
