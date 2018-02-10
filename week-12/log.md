@@ -1,5 +1,31 @@
 # Week 12
 
+## [83] Day 84: 2018-02-09
+
+### Today's Progress
+
+1. Read about separation of concerns and access control in "Programming JavaScript Applications" book.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- n/a
+
+### Thoughts, Ideas, Questions
+
+- A web app is a web app. I'm seeing similar concepts that are addressed in Ruby on Rails development, too.
+
+### Project I worked on
+
+- [JavaScript cheatsheet](https://github.com/digilou/javascript-cheatsheets)
+
+### Resources I found helpful
+
+- Programming JavaScript Applications by Eric Elliot
+
 ## [82] Day 83: 2018-02-08
 
 ### Today's Progress
