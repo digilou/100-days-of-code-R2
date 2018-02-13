@@ -1,5 +1,33 @@
 # Week 13
 
+## [86] Day 87: 2018-02-12
+
+### Today's Progress
+
+1. Read about Node in Fullstack MEAN JS book.
+2. Worked through 3 lessons in module 4: creating IndexedDB store and clearing it.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- `require()` is a Node JS function.
+
+### Thoughts, Ideas, Questions
+
+- I need to start a checklist for web app dev. One that works across languages, but also includes some framework specifics (Rails and Node).
+
+### Project I worked on
+
+- [GWG Women Techmakers app](https://github.com/gwg-women/gwg-women-techmakers)
+- Grow with Google: Intermediate Mobile Web Dev class
+
+### Resources I found helpful
+
+- Fullstack MEAN JavaScript Applications
+
 ## [85] Day 86: 2018-02-11
 
 ### Today's Progress
