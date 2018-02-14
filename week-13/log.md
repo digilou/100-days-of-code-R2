@@ -1,5 +1,35 @@
 # Week 13
 
+## [87] Day 88: 2018-02-13
+
+### Today's Progress
+
+1. Read more about Node in Fullstack MEAN JS book.
+2. Worked through 2 lessons in module 4: clearing IndexedDB store and caching images.
+3. Updated WWC website by adding people and pictures to their about page.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Callbacks, event emitters, and promises in Node.
+
+### Thoughts, Ideas, Questions
+
+- Started my web app checklist last night. Now I need to refine it, and do more research.
+
+### Project I worked on
+
+- Grow with Google: Intermediate Mobile Web Dev class
+- Women Who Code website
+
+### Resources I found helpful
+
+- Fullstack MEAN JavaScript Applications
+- Udacity course (intermediate mobile web development)
+
 ## [86] Day 87: 2018-02-12
 
 ### Today's Progress
