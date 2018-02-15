@@ -1,5 +1,36 @@
 # Week 13
 
+## [88] Day 89: 2018-02-15
+
+### Today's Progress
+
+1. Struggled with author config for Git in Vagrant.
+2. Started working on cache for GWG map project.
+3. A couple more parts complete in my Udacity course.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- A re-do is sometimes quicker than learning how to fix portions.
+
+### Thoughts, Ideas, Questions
+
+- I love the git tricks, but in this case, creating a new branch and copy & paste were just a whole lot faster! Know the best technique for any given situation.
+
+### Project I worked on
+
+- Grow with Google: Intermediate Mobile Web Dev class
+- Women Who Code website
+
+### Resources I found helpful
+
+- Fullstack MEAN JavaScript Applications
+- Udacity course (intermediate mobile web development)
+- [Git: change author name](https://www.git-tower.com/learn/git/faq/change-author-name-email)
+
 ## [87] Day 88: 2018-02-13
 
 ### Today's Progress
@@ -14,7 +45,7 @@
 
 ### Ideas/Techniques Learned
 
-- Callbacks, event emitters, and promises in Node.
+- Callbacks, event emitters, and promises in Node are the async way.
 
 ### Thoughts, Ideas, Questions
 
