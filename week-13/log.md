@@ -32,11 +32,11 @@
 
 1. Struggled with author config for Git in Vagrant.
 2. Started working on cache for GWG map project.
-3. Completed module 4 (IndexedDB caching) & 5 (segue) in my Udacity course.
+3. A couple more parts complete in my Udacity course.
 
 ### Time Spent
 
-2 hr
+1 hr
 
 ### Ideas/Techniques Learned
 
@@ -45,7 +45,6 @@
 ### Thoughts, Ideas, Questions
 
 - I love the git tricks, but in this case, creating a new branch and copy & paste were just a whole lot faster! Know the best technique for any given situation.
-- What a relief to move on to ES6!
 
 ### Project I worked on
 
