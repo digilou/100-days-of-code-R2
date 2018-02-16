@@ -1,5 +1,31 @@
 # Week 13
 
+## [89] Day 90: 2018-02-16
+
+### Today's Progress
+
+1. Worked toward service worker setup for GWG map project.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Handlebars looks like a useful view templating alternative for JS stack.
+
+### Thoughts, Ideas, Questions
+
+- Have I learned nothing??
+
+### Project I worked on
+
+- GWG map app
+
+### Resources I found helpful
+
+- n/a
+
 ## [88] Day 89: 2018-02-15
 
 ### Today's Progress
