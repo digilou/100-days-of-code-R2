@@ -1,5 +1,32 @@
 # Week 13
 
+## [90] Day 91: 2018-02-17
+
+### Today's Progress
+
+1. Set up image model for the photo gallery.
+
+### Time Spent
+
+1 hr 15 min
+
+### Ideas/Techniques Learned
+
+- I am not the first one to develop this in Rails. Github has proven a good resource of other photo album projects to give me some help.
+
+### Thoughts, Ideas, Questions
+
+- So nerve-wrecking when I'm writing my own code now!
+
+### Project I worked on
+
+- Photo album (sharing) app
+
+### Resources I found helpful
+
+- [Avoid the Three State Boolean Problem](https://robots.thoughtbot.com/avoid-the-threestate-boolean-problem)
+- [Rails Guides: Migrations](http://guides.rubyonrails.org/v3.2/migrations.html#supported-types)
+
 ## [89] Day 90: 2018-02-16
 
 ### Today's Progress
