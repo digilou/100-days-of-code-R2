@@ -1,5 +1,31 @@
 # Week 14
 
+## [93] Day 94: 2018-02-20
+
+### Today's Progress
+
+1. Completed Lesson 6 coursework for Grow with Google Scholars class.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- Rest parameter `(...)` is the opposite of the spread operator.
+
+### Thoughts, Ideas, Questions
+
+- Just trying to keep up with all the ideas right now! ES6 is the easiest of my tasks right now.
+
+### Project I worked on
+
+- Mobile dev course
+
+### Resources I found helpful
+
+- Udacity Google course
+
 ## [92] Day 93: 2018-02-19
 
 ### Today's Progress
