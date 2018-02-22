@@ -1,5 +1,36 @@
 # Week 14
 
+## [94] Day 95: 2018-02-21
+
+### Today's Progress
+
+1. Started Lesson 7 coursework (ES6 functions) for Grow with Google Scholars class.
+2. Updated design for a form page.
+
+### Time Spent
+
+2 hr
+
+### Ideas/Techniques Learned
+
+- `for...of` iterator allows a bit more flexibility and code simplicity for iterating over iterable items.
+- Arrow functions, I've encountered before, but they are a nice clean way to code simple functions. (shouldn't all functions be simple?)
+
+### Thoughts, Ideas, Questions
+
+- Perturbed that the form I worked on is a bit long, but the time crunch has left me to improvise, since the backend is unlikely to break the page apart.
+- Trying to keep Bootstrap and Foundation classes straight in my head.
+- Coming down to the wire on this challenge, and some projects I'm working through.
+
+### Project I worked on
+
+- Mobile dev course
+- Side project: a small-business website
+
+### Resources I found helpful
+
+- Udacity Google course
+
 ## [93] Day 94: 2018-02-20
 
 ### Today's Progress
