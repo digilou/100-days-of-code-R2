@@ -1,5 +1,33 @@
 # Week 14
 
+## [95] Day 96: 2018-02-22
+
+### Today's Progress
+
+1. Continued Lesson 7 coursework (ES6 functions) for Grow with Google Scholars class.
+2. Updated design for a results page.
+
+### Time Spent
+
+1 hr 30 min
+
+### Ideas/Techniques Learned
+
+- `height: calc(100vh - 200px)` did the trick for padding main and footer.
+
+### Thoughts, Ideas, Questions
+
+- 4 days to go. Wow! So much left to do. The coding doesn't stop at the challenge.
+
+### Project I worked on
+
+- Mobile dev course
+- Side project: a small-business website
+
+### Resources I found helpful
+
+- Udacity Google course
+
 ## [94] Day 95: 2018-02-21
 
 ### Today's Progress
