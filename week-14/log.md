@@ -1,5 +1,31 @@
 # Week 14
 
+## [96] Day 97: 2018-02-23
+
+### Today's Progress
+
+1. Finished Lesson 7 coursework (ES6 functions) for Grow with Google Scholars class.
+
+### Time Spent
+
+1 hr
+
+### Ideas/Techniques Learned
+
+- JavaScript classes are just a mirage to creating an object with a function and using `prototype` for inheritance. It's type is even a function.
+
+### Thoughts, Ideas, Questions
+
+- 3 days to go... will I always be juggling and pulling in too many projects?
+
+### Project I worked on
+
+- Mobile dev course
+
+### Resources I found helpful
+
+- Udacity Google course
+
 ## [95] Day 96: 2018-02-22
 
 ### Today's Progress
