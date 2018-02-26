@@ -1,5 +1,31 @@
 # Week 14
 
+## [97] Day 98: 2018-02-25
+
+### Today's Progress
+
+1. Gave ids to ERB input boxes to improve accessibility.
+
+### Time Spent
+
+1 hr 15 min
+
+### Ideas/Techniques Learned
+
+- Text and select fields don't appear to automatically assign ids, but rather names to inputs.
+
+### Thoughts, Ideas, Questions
+
+- Still gotta chase down the answer as to why my select fields are not pairing with their inputs, or throwing errors.
+
+### Project I worked on
+
+- Side project: a small-business website
+
+### Resources I found helpful
+
+- n/a
+
 ## [96] Day 97: 2018-02-23
 
 ### Today's Progress
