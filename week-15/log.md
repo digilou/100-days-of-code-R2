@@ -5,10 +5,11 @@
 ### Today's Progress
 
 1. Attempted to resolve `label for` and `select id` problem.
+2. Watched half of an intro to React course.
 
 ### Time Spent
 
-1 hr
+2 hr
 
 ### Ideas/Techniques Learned
 
@@ -22,10 +23,12 @@
 ### Project I worked on
 
 - Side project: business site
+- React for Beginners course
 
 ### Resources I found helpful
 
 - [form_with is not applying explicit id to select tag](https://github.com/rails/rails/issues/29526)
+- [Wes Bos's React for Beginners](https://reactforbeginners.com/)
 
 ## [98] Day 99: 2018-02-26
 
@@ -51,4 +54,4 @@
 
 ### Resources I found helpful
 
-- [Syntax.fm]()
+- [Syntax.fm](https://syntax.fm/)
